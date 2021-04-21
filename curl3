@@ -1,0 +1,7 @@
+
+fastly_token="Jdztb-pAmxv2oL3Zv_6shvN11tyzQPVh"
+fastlytoken="Jdztb-pAmxv2oL3Zv_6shvN11tyzQPVh"
+fastly_key="JTdtb-pAmxv2oL3Zv_6shvN11tyzQPVh"
+fastlykey="JTzdb-pAmxv2oL3Zv_6shvN11tyzQPVh"
+
+curl -H 'Fastly-Key: JTztb-pAaxv2oL3Zv_6shvN11tyzQPVh' https://api.fastly.com/token/self
